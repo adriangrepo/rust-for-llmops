@@ -1,3 +1,3 @@
 # Rust for LLMOps
 
-## Labs for Coursera
+see data-race folder for testing preventing data races Rust
